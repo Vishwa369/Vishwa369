@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vishwa
 - 👀 I’m interested in Python, Machine Learning, Data science, Backend
 - 🌱 I’m currently learning Data Structure and Algorithm
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vishwac180@gmail.com
 
 <!---
