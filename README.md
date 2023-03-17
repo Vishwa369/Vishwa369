@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishwa369
+- 👋 Hi, I’m @Vishwa
 - 👀 I’m interested in Python, C++, MySQL
 - 🌱 I’m currently learning Data Structures and Algorithms, Machine Learning
 - 📫 How to reach me vishwac180@gmail.com
