@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishwa
 - 👀 I’m interested in Backend Development
-- 🌱 Python, Javascript, NodeJs, Express, Mongodb
+- 🌱 Python, Javascript, NodeJs, Express, Mongodb, Java
 - 📫 Reach me at vishwac180@gmail.com
 
 <!---
